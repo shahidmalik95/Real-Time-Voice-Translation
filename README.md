@@ -1,7 +1,8 @@
 # Real-Time-Voice-Translation
 This repository contains a voice translator application built in Python. The application allows users to input voice commands, detects the language of the input, translates the text into the desired destination language using the Google Translate API, and reads out the translated text while also displaying it in the console.
 
-Features
+#Features
+
 1: Voice Command Input: The application accepts voice commands as input, making it convenient for users to communicate their translation requests.
 
 2: Language Detection: The application utilizes language detection to automatically determine the language of the input. This helps in accurately translating the text into the desired language.
